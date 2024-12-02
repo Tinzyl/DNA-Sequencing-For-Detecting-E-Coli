@@ -29,9 +29,10 @@ Model Evaluation: Outputs metrics like confusion matrix and loss curves.
 **Results** 📊
 
 **Confusion Matrix:**
-
-Predicted:
-        Positive  Negative
-Actual:
-  Positive   15       0
-  Negative    2      10
+|-----------------------------|
+|Predicted:                  |
+|        Positive  Negative  |
+|Actual:                     |
+| Positive   15       0      |
+|  Negative    2      10     |
+|----------------------------|
